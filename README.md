@@ -1,7 +1,6 @@
 # citiesocial icon font
 
-citiesocial web & app 使用之 icon font
-[cs-icon-font](https://shueny.github.io/cs-icon-fonts/)
+citiesocial web & app 使用之 [icon font](https://shueny.github.io/cs-icon-fonts/)
 
 # Version 1.1
 | 時間 | 版本 |
